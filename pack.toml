@@ -1,0 +1,13 @@
+name = "Expedition Pack"
+author = "Sorrento110"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1b48e6e19f8732a502b606073e73f1475cf3418a5f202126aea880dc3c9f0996"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"
