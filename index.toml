@@ -6,11 +6,6 @@ hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "f69fb66341fa0ac51d6ab8637efa6f68fa97038169a186975bdaff19d7139fbb"
 metafile = true
@@ -256,11 +251,6 @@ hash = "1c409471400cd68f5105d87fa1fdf2ae71c1ad00934a2a306abffad60d1bf86f"
 metafile = true
 
 [[files]]
-file = "mods/jewelry.pw.toml"
-hash = "d5d38de5cddb1647d5974c50a3efd909d3aa0dc0a5cae9c93931916ec840283c"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
@@ -316,11 +306,6 @@ hash = "99813592c09351cb6340d8519d919e0d2d0b2f8073c3fe6833e7d846616bf5f2"
 metafile = true
 
 [[files]]
-file = "mods/oceans-delight.pw.toml"
-hash = "152f6cfe8ee891ba80faa800dd3df3058be14882f9f8d07cb38eb6a6f96ece4b"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -343,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
-metafile = true
-
-[[files]]
-file = "mods/ranged-weapon-api.pw.toml"
-hash = "2266c4e825271885c97c3c4a6c33bad0b5683216a9d923365af7e7be702b9c8a"
 metafile = true
 
 [[files]]
@@ -418,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
-metafile = true
-
-[[files]]
-file = "mods/spell-power.pw.toml"
-hash = "87974592c5bae53d923bfca250870c0f9e4610e925168be10cfe4ce663cc76f2"
 metafile = true
 
 [[files]]
